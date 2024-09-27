@@ -1,2 +1,2 @@
 # SOS
-SOS app made for Technova Hackathon Round -2
+SOS App Made For Technova Hackathon Round -2
